@@ -12,7 +12,7 @@
     "@openzeppelin/contracts": "^4.3.3",
     "@openzeppelin/test-helpers": "^0.5.15",
     "@openzeppelin/truffle-upgrades": "^1.9.1",
-    "@truffle/hdwallet-provider": "^1.7.0",
+    "@truffle/hdwallet-provider": "^2.1.15",
     "chai": "^4.3.4",
     "lodash.get": "^4.4.2",
     "moment": "^2.29.1",
